@@ -1,0 +1,71 @@
+#hi{
+    width: 20rem;
+}
+
+.Child{
+    border: 1px solid black;
+    background-color: #ffffff02;
+    backdrop-filter: blur(15px);
+    width: 100%;
+    max-width: 400px;
+    height: 15rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px;
+}
+
+.Child1{
+    border: 1px solid black;
+    background-color: #ffffff02;
+    backdrop-filter: blur(15px);
+    width: 100%;
+    max-width: 400px;
+    height: 15rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px;
+}
+
+.KOKO{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.Parent{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+
+.Parent1{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+
+.SEE{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.b{
+    margin-top: 60px;
+}
+
+body{
+    background-image: url(JJ.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+
